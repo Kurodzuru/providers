@@ -2,7 +2,6 @@ package org.example.providers;
 
 import org.example.providers.dto.Provider;
 import org.example.providers.exceptions.UnknownProviderException;
-import org.example.providers.provider.ProviderSourceList;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.HttpMethod;

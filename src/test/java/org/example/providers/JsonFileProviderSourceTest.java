@@ -1,7 +1,6 @@
 package org.example.providers;
 
 import org.example.providers.dto.Provider;
-import org.example.providers.provider.ProviderSourceJson;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
 

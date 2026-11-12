@@ -1,4 +1,4 @@
-package org.example.providers.provider;
+package org.example.providers;
 
 import org.example.providers.dto.Provider;
 
