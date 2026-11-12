@@ -1,4 +1,4 @@
-package org.example.providers.dto;
+package org.example.dto;
 
 public record StatusResponse(String status) {
 }

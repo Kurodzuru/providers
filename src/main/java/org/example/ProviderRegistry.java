@@ -1,7 +1,7 @@
-package org.example.providers;
+package org.example;
 
-import org.example.providers.dto.Provider;
-import org.example.providers.exceptions.UnknownProviderException;
+import org.example.dto.Provider;
+import org.example.exceptions.UnknownProviderException;
 import org.springframework.web.client.RestClient;
 
 import java.util.*;

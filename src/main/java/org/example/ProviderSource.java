@@ -1,6 +1,6 @@
-package org.example.providers;
+package org.example;
 
-import org.example.providers.dto.Provider;
+import org.example.dto.Provider;
 
 import java.util.List;
 

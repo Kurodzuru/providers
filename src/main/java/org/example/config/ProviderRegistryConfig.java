@@ -1,8 +1,8 @@
-package org.example.providers.config;
+package org.example.config;
 
-import org.example.providers.ProviderRegistry;
-import org.example.providers.ProviderSource;
-import org.example.providers.ProviderSourceJson;
+import org.example.ProviderRegistry;
+import org.example.ProviderSource;
+import org.example.ProviderSourceJson;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,8 +1,8 @@
-package org.example.providers;
+package org.example;
 
-import org.example.providers.dto.Provider;
-import org.example.providers.dto.StatusResponse;
-import org.example.providers.exceptions.UnexpectedResponseException;
+import org.example.dto.Provider;
+import org.example.dto.StatusResponse;
+import org.example.exceptions.UnexpectedResponseException;
 import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.RestClient;
 

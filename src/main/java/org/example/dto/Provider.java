@@ -1,4 +1,4 @@
-package org.example.providers.dto;
+package org.example.dto;
 
 import java.util.Objects;
 

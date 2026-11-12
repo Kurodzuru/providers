@@ -1,4 +1,4 @@
-package org.example.providers.exceptions;
+package org.example.exceptions;
 
 public class UnknownProviderException extends RuntimeException{
 
